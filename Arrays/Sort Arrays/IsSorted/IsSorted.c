@@ -2,7 +2,7 @@
 
 //inc = 1, to check if array is sorted in increasing order
 //inc = 0, to check if array is sorted in decreasing order
-int isSorted(int* A,int n,int inc){
+int isSorted(int* A, int n, int inc){
 	int i;
 	if(inc != 0 && inc != 1){
 		printf("Error: 'inc' must be 0 or 1");

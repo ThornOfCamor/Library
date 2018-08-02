@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //Merging only arrays sorted in increasing order
-int* merge(int* A, int nA,int* B, int nB){
+int* merge(int* A, int nA, int* B, int nB){
 	if(nA==0)
 		return B;
 	if(nB==0)

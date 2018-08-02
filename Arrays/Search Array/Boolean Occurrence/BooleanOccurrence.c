@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "../../Merge Arrays/Merge.c"
 
+//Returns B 1 occurs in A, else returns 0
 int occurrence(int* A, int n, int B){
 	int i;
 	if(n<=0)
