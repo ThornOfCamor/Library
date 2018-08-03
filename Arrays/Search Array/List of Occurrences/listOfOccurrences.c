@@ -2,7 +2,7 @@
 #include "../../Merge Arrays/Merge.c"
 #include <stdlib.h>
 
-// Returns the array of indices where B iccurs in A.
+// Returns the array of indices where B iccurs in array A of size n.
 // c is the number of occurences of B in A.
 // Index is the starting point of the check in the array.
 int* listOfOccurrences(int *A, int n, int B, int *c, int index){

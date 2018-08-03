@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "../../Merge Arrays/Merge.c"
 
-//Counts the number of occurences of B in A
+//Counts the number of occurences of B in array A of size n
 int noOfOccurrences(int *A, int n, int B){
 	int i;
 	if(n<=0)
