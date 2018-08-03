@@ -15,6 +15,7 @@ Contents:
 1.4.1. Boolean Occurence
 1.4.2. List of Occurences
 1.4.3. No. Of Occurences
+
 2. Math
 2.1. Combinatrics
 2.1.1. factorial
@@ -26,3 +27,4 @@ Contents:
 2.3. LCM
 2.3.1. LCM Array
 2.3.2. LCM Pair
+2.4 Prime

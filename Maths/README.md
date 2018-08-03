@@ -12,3 +12,5 @@ Math
 3. LCM
 	1. LCM Pair: int lcm(int a, int b)
 	2. LCM Array: int lcmA(int* arr, int arr_count)
+
+4. Prime: int isPrime(long logn int n)
