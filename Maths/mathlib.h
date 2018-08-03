@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "Comninatrics/combinatrics.h"
+#include "Combinatrics/combinatrics.h"
 #include "GCD/GCD.h"
 #include "LCM/LCM.h"
-#include "IsPrime/IsPrime.c"
+#include "Prime/IsPrime.c"

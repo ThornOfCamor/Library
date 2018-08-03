@@ -1,8 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "../../Merge Arrays/Merge.c"
-#include "../IsSorted/IsSorted.c"
-#include "../../Reverse Arrays/ReverseVoid/ReverseVoid.c"
 
 //A may change
 //n = number of elements

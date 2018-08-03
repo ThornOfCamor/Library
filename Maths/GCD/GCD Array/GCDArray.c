@@ -1,5 +1,4 @@
 #include  <stdio.h>
-#include "../GCD Pair/GCDPair.c"
 
 //Provides GCD of all elements in an array of size n.
 int gcdA(int* arr, int n){

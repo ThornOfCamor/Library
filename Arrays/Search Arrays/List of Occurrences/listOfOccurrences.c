@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "../../Merge Arrays/Merge.c"
 #include <stdlib.h>
 
 // Returns the array of indices where B iccurs in array A of size n.

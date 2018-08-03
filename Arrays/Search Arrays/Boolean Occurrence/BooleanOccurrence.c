@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "../../Merge Arrays/Merge.c"
 
 //Returns B 1 occurs in A, else returns 0
 //n = size of A

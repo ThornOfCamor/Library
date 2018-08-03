@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "../factorial/factorial.c"
 
 long long int nPr(int n, int r){
 	if(n<r){
