@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "../LCM Pair/LCMPair.c"
 
 //Returns LCM of the elements in an integer array of size n.
 long long int lcmA(int* arr, int n){

@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "../No. of Occurrences/noOfOccurrences.c"
 
 // Returns the array of indices where B iccurs in array A of size n.
 // c is the number of occurences of B in A.
