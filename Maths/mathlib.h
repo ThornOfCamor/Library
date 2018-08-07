@@ -3,4 +3,4 @@
 #include "Combinatrics/combinatrics.h"
 #include "GCD/GCD.h"
 #include "LCM/LCM.h"
-#include "Prime/IsPrime.c"
+#include "Divisors/noOfDivisors/noOfDivisors.c"
