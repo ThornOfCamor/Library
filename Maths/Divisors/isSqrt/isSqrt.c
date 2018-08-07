@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "../sqrt/sqrt.c"
 
-//Gives 1 if n is a perfect square.s
+//Gives 1 if n is a perfect square.
 int isSqrt(int n){
     int i = sqrtN(n);
     if(n==i*i)
