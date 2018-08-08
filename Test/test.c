@@ -3,5 +3,5 @@
 
 int main(){
 	printf("Successful Test\n");
-	printf("Testing Prime = 6:%d\n",isPrime(6));
+	printf("Testing noOfDivisors = 253: %d\n",noOfDivisors(253));
 }
