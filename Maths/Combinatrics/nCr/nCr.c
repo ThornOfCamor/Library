@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-long int nCr(int n, int r){
+long long int nCr(int n, int r){
 	if(n<r){
 		printf("n must be greater than or equal to r");
 		return 0;
