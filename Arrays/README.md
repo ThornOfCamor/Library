@@ -12,6 +12,6 @@ Arrays
     2. Int* Reverse: int* reverseArray(int* arr, int arr_count)
 
 4. Search
-	1. Boolean Occurance: int occurrence(int* arr, int arr_count, int B)
-	2. List of Occurences: int* listOfOccurrences(int *arr, int arr_count, int B, int *result_count, 													int start_index)
-	3. No. of Occurences: int noOfOccurrences(int *arr, int arr_count, int B)
+	1. Boolean Occurrence: int occurrence(int* arr, int arr_count, int B)
+	2. List of Occureences: int* listOfOccurrences(int *arr, int arr_count, int B, int *result_count, 													int start_index)
+	3. No. of Occurrences: int noOfOccurrences(int *arr, int arr_count, int B)

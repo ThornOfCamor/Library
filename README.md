@@ -21,14 +21,19 @@ Contents:
 2.1.1. factorial
 2.1.2. nCr
 2.1.3. nPr
-2.2. Divisors
-2.2.1. isSqrt
-2.2.2. noOfDivisors
-2.2.3. sqrt
-2.3. GCD
-2.3.1. GCD Array
-2.3.2. GCD Pair
-2.4. LCM
-2.4.1. LCM Array
-2.4.2. LCM Pair
-2.5 Prime
+2.2. Digits
+2.2.1. arrayOfDigits
+2.2.2. isPalin
+2.2.3. noOfDigits
+2.2.4. toBinary
+2.3. Divisors
+2.3.1. isSqrt
+2.3.2. noOfDivisors
+2.3.3. sqrt
+2.4. GCD
+2.4.1. GCD Array
+2.4.2. GCD Pair
+2.5. LCM
+2.5.1. LCM Array
+2.5.2. LCM Pair
+2.6 Prime
