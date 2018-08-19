@@ -7,9 +7,11 @@ Math
 
 2. Digits
 	1. arrayOfDigits: int* arrayOfDigits(long long int n, int* size)
-	2. isPalin: int isPalin(int n, int base)
-	3. noOfDigits: int noOfDigits(long long int n)
-	4. toBinary: int* toBinary(int n, int* size)
+	2. AtoN: long long int AtoN(int* arr, arr_count)
+	3. isPalin: int isPalin(int n, int base)
+	4. noOfDigits: int noOfDigits(long long int n)
+	5. power: long long int power(int n, int exp)
+	6. toBinary: int* toBinary(int n, int* size)
 	
 3. Divisors
 	1. isSqrt: int isSqrt(long long int n)

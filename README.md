@@ -23,9 +23,11 @@ Contents:
 2.1.3. nPr
 2.2. Digits
 2.2.1. arrayOfDigits
-2.2.2. isPalin
-2.2.3. noOfDigits
-2.2.4. toBinary
+2.2.2. AtoN
+2.2.3. isPalin
+2.2.4. noOfDigits
+2.2.5. power
+2.2.6. toBinary
 2.3. Divisors
 2.3.1. isSqrt
 2.3.2. noOfDivisors
