@@ -3,5 +3,5 @@
 #include "Combinatrics/combinatrics.h"
 #include "GCD/GCD.h"
 #include "LCM/LCM.h"
-#include "Divisors/noOfDivisors/noOfDivisors.c"
+#include "Divisors/Divisors.h"
 #include "Digits/Digits.h"

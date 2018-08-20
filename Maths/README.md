@@ -16,7 +16,8 @@ Math
 3. Divisors
 	1. isSqrt: int isSqrt(long long int n)
 	2. noOfDivisors: int noOfDivisors(long long int n)
-	3. sqrt: long int sqrtN(long long int n)
+	3. noOfPrimeFactors: int noOfPrimeFactors(long long int n)
+	4. sqrt: long int sqrtN(long long int n)
 
 4. GCD
 	1. GCD Array: int gcdA(int* arr, int aarr_count)

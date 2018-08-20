@@ -31,7 +31,8 @@ Contents:
 2.3. Divisors
 2.3.1. isSqrt
 2.3.2. noOfDivisors
-2.3.3. sqrt
+2.3.3. noOfPrimeFactors
+2.3.4. sqrt
 2.4. GCD
 2.4.1. GCD Array
 2.4.2. GCD Pair

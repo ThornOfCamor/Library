@@ -10,5 +10,9 @@ int main(){
 	printf("Testing noOfOccurrences a = {1, 1, 1, 2, 3, 4}: %d\n", noOfOccurrences(a, 6, 2));
 	printf("Testing arrayOfDigits and AtoN: %lld\n", AtoN(arrayOfDigits(34567, &i), 5));
 	printf("Testing sqrtN for 132: %ld\n", sqrtN(132)*(sqrtN(132)+1));
+	printf("Testing noOfPrimeFactors for 289: %d\n", noOfPrimeFactors(289));
+	for(i=0;i<10;i++)
+		if(isPrime(70003+i*1110)==1)
+			printf("%d\n", 70003+i*1110);
 	return 0;
 }
