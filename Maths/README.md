@@ -11,7 +11,8 @@ Math
 	3. isPalin: int isPalin(int n, int base)
 	4. noOfDigits: int noOfDigits(long long int n)
 	5. power: long long int power(int n, int exp)
-	6. toBinary: int* toBinary(int n, int* size)
+	6. powerArray: int* powerArray(int a, int b)
+	7. toBinary: int* toBinary(int n, int* size)
 	
 3. Divisors
 	1. isSqrt: int isSqrt(long long int n)

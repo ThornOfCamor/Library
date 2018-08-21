@@ -27,7 +27,8 @@ Contents:
 2.2.3. isPalin
 2.2.4. noOfDigits
 2.2.5. power
-2.2.6. toBinary
+2.2.6. powerArray
+2.2.7. toBinary
 2.3. Divisors
 2.3.1. isSqrt
 2.3.2. noOfDivisors

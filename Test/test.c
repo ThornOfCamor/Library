@@ -3,7 +3,7 @@
 
 int main(){
 	int a[] = {1, 1, 1, 2, 3, 4};
-	int i;
+	int i, *b;
 	printf("Successful Test\n");
 	printf("Testing noOfDivisors = 253: %d\n",noOfDivisors(253));
 	printf("Testing factorial of 10: %lld\n", fact(10));
@@ -11,8 +11,10 @@ int main(){
 	printf("Testing arrayOfDigits and AtoN: %lld\n", AtoN(arrayOfDigits(34567, &i), 5));
 	printf("Testing sqrtN for 132: %ld\n", sqrtN(132)*(sqrtN(132)+1));
 	printf("Testing noOfPrimeFactors for 289: %d\n", noOfPrimeFactors(289));
-	for(i=0;i<10;i++)
-		if(isPrime(70003+i*1110)==1)
-			printf("%d\n", 70003+i*1110);
+	b = reverseArray(a, 6);
+	for(i=0;i<6;i++)
+		printf("%d ", b[i]);
+	printf("\n");
+	printf("%d\n", 8^34);
 	return 0;
 }

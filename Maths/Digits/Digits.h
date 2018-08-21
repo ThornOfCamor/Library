@@ -3,3 +3,4 @@
 
 #include "isPalin/isPalin.c"
 #include "AtoN/AtoN.c"
+#include "powerArray/powerArray.c"
