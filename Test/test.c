@@ -11,10 +11,12 @@ int main(){
 	printf("Testing arrayOfDigits and AtoN: %lld\n", AtoN(arrayOfDigits(34567, &i), 5));
 	printf("Testing sqrtN for 132: %ld\n", sqrtN(132)*(sqrtN(132)+1));
 	printf("Testing noOfPrimeFactors for 289: %d\n", noOfPrimeFactors(289));
-	b = reverseArray(a, 6);
-	for(i=0;i<6;i++)
-		printf("%d ", b[i]);
+	b = arrayOfDigits(4, &i);
+	for(int j=0;j<i;j++)
+		printf("%d", b[j]);
 	printf("\n");
-	printf("%d\n", 8^34);
+	long long int j = 100000000000000;
+	j++;
+	printf("%lld\n", j);
 	return 0;
 }
